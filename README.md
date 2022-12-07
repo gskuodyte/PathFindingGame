@@ -6,7 +6,7 @@ Task :
 
 Map characteristics :
 1. The map is a rectangular shape
-2. Map consists of symbols “ ”, “1”, “X”:
+2. Map consists of symbols “ ”, “1”, “X” :
 
   a. “ ” – empty spaces where you can move ;
  
