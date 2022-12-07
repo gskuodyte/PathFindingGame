@@ -7,9 +7,9 @@ Task :
 Map characteristics :
 1. The map is a rectangular shape
 2. Map consists of symbols “ ”, “1”, “X”:
-a. “ ” – empty spaces where you can move
-b. “1” – obstacles
-c. “X” – your start position 
+ “ ” – empty spaces where you can move ;
+ “1” – obstacles ;
+ “X” – your start position.
 
 P.s. The project was done for the company for recruitment purposes.
 Future changes are being made based on feedback from the interview.
