@@ -5,7 +5,7 @@ Task :
 3. You can only move through the empty spaces (symbol “ ”).
 
 Map characteristics :
-1. The map is a rectangular shape
+1. The map is a rectangular shape ;
 2. Map consists of symbols “ ”, “1”, “X” :
 
   a. “ ” – empty spaces where you can move ;
